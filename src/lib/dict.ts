@@ -127,11 +127,10 @@ export const dict = {
   id: {
     // ── Hero ──────────────────────────────────────────────
     heroTag: "Pyun Stream",
-    heroTitle1: "Stream-mu Layak Dapat",
-    heroTitle2: "Overlay yang Lebih Keren",
+    heroTitle1: "Maksimalkan Stream dengan",
+    heroTitle2: "Overlay Lebih Pro",
     heroDesc:
-      '"Gratis, offline, nggak berat. Scoreboard versus overlay buat streamer yang peduli sama kualitas kontennya."',
-
+      "Gratis, ringan, dan bisa offline. Solusi scoreboard & versus overlay terbaik untuk streamer yang mengutamakan kualitas konten.",
     // ── Download ──────────────────────────────────────────
     downloadWin: "Windows",
     downloadMacSilicon: "Mac (Apple Silicon)",
@@ -140,8 +139,8 @@ export const dict = {
     versionInfo: "v1.0.0 · Free & Open Source",
 
     // ── How It Works ─────────────────────────────────────
-    howItWorksSub: "Literally Cuma 3 Langkah",
-    howItWorksTitle: "Langsung Live",
+    howItWorksSub: "Mulai dalam 3 Langkah",
+    howItWorksTitle: "Instan Live",
     howItWorksDesc:
       "Dari download sampai siaran langsung — overlay turnamen profesional siap jalan dalam waktu kurang dari lima menit.",
 
@@ -160,10 +159,9 @@ export const dict = {
 
     // ── Features ─────────────────────────────────────────
     featuresSub: "Kenapa Streamer Pilih Pyun",
-    featuresTitle: "Beda dari yang Lain.",
+    featuresTitle: "Fitur Unggulan.",
     featuresDesc:
-      "Nggak ada langganan. Nggak ada server. Nggak nge-lag. Cuma tool overlay yang bersih, cepet, dan selalu siap tiap stream.",
-
+      "Tanpa langganan. Tanpa server. Zero lag. Tool overlay ringan, responsif, dan siap tempur di setiap stream.",
     feat1Title: "100% Offline & Ringan",
     feat1Desc:
       "Jalan sepenuhnya di komputermu — tanpa internet, tanpa akun, tanpa database. Nol beban CPU saat kamu live.",
@@ -185,11 +183,11 @@ export const dict = {
     previewOpt: "Dioptimalkan untuk 60 FPS",
 
     // ── Demo ─────────────────────────────────────────────
-    demoSub: "Aksi Nyatanya",
+    demoSub: "Lihat Cara Kerjanya",
     demoTitle1: "Lihat ",
     demoTitle2: " Langsung",
     demoDesc:
-      "Tonton walkthrough aslinya — dari install pertama sampai overlay berjalan mulus di OBS saat live.",
+      "Tonton bagaimana Pyun menyulap set-up overlay OBS-mu jadi super keren dan profesional hanya dalam hitungan menit.",
 
     demo1Label: "Tutorial",
     demo1Title: "Mulai Pakai Pyun",
@@ -204,14 +202,13 @@ export const dict = {
     demoChannel: "channel YouTube",
 
     // ── Menus ─────────────────────────────────────────────
-    menusSub: "Isi Aplikasinya",
-    menusTitle: "Menu Kontrol",
+    menusSub: "Eksplorasi Fitur",
+    menusTitle: "Panel Kontrol",
     menusDesc:
-      "Empat menu yang fokus. Semua yang kamu butuhkan buat produksi live yang rapi — tanpa yang nggak perlu.",
-
+      "Cukup 4 menu esensial buat kelola stream-mu. Semua fitur penting sudah siap pakai, rapi, dan bebas dari bloatware.",
     menuScoreTitle: "Skor & Kontrol",
     menuScoreDesc:
-      "Pusat komando live-mu. Tambah atau kurangi poin secara instan, aktifkan mode donasi/mata uang, dan reset semua data sekali tap.",
+      "Pusat komando live-mu. Ubah skor secara instan, aktifkan mode donasi/mata uang, dan reset semua data sekali tap.",
     menuScoreSp1: "Kontrol Skor Real-Time",
     menuScoreSp2: "Mode Donasi / Currency",
     menuScoreSp3: "Efek Visual Animasi",
